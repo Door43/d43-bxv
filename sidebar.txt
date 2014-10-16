@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[bxv:home|Door43 (bxv)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-bxv|d43-bxv repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-bxv/archive/master.zip|d43-bxv.zip]]
+
+**Recent Changes**
+{{changes>ns = bxv}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/bxv|Ethnologue data]]
+
